@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eldareey\\source\\repos\\task\\",
+  "WorkspaceRootPath": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\businesslogic\\businesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:businesslogic\\businesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\source\\repos\\task\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|c:\\users\\eldareey\\desktop\\new folder\\restaurantsimple\\task\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5013BA91-F887-4CB4-89E8-6A3C23D5A5EC}|task.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,60 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Order.cs",
-              "RelativeDocumentMoniker": "Order.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Order.cs",
-              "RelativeToolTip": "Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T06:57:48.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Extensions.cs",
-              "RelativeDocumentMoniker": "Extensions.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Extensions.cs",
-              "RelativeToolTip": "Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T06:57:58.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Category.cs",
-              "RelativeDocumentMoniker": "Category.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Category.cs",
-              "RelativeToolTip": "Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T06:39:24.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Restaurant.cs",
-              "RelativeDocumentMoniker": "Restaurant.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Restaurant.cs",
-              "RelativeToolTip": "Restaurant.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAqwDUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T06:31:12.95Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -98,13 +58,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Businesslogicservice.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\BusinessLogic\\Businesslogicservice.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Businesslogicservice.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\BusinessLogic\\Businesslogicservice.cs",
+              "RelativeToolTip": "BusinessLogic\\Businesslogicservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:24:44.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Status.cs",
+              "RelativeDocumentMoniker": "Status.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Status.cs",
+              "RelativeToolTip": "Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:10:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:07:12.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:57:48.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Extensions.cs",
+              "RelativeToolTip": "Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:57:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:39:24.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:31:12.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Dish.cs",
-              "RelativeDocumentMoniker": "Dish.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Dish.cs",
-              "RelativeToolTip": "Dish.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Entities\\Dish.cs",
+              "RelativeToolTip": "Entities\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:30:50.824Z",
               "EditorCaption": ""
@@ -113,11 +164,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\source\\repos\\task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\eldareey\\source\\repos\\task\\Program.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\New folder\\RestaurantSimple\\task\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T06:30:27.344Z",
               "EditorCaption": ""

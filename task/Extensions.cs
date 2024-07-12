@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using task.Entities;
 
 namespace task;
 
@@ -14,6 +9,4 @@ public static class Extensions
         double CalculateSum = dishes.Sum(d => d.Price);
         return CalculateSum;
     }
-
-
 }
